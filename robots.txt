@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationriverview.com/sitemap.xml
